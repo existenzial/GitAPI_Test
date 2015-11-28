@@ -1,3 +1,1 @@
-# Git API Test
-
-This repo contains test HTML files and various Javascript files designed to interact with basic object data retrieved from the GitHub API.
+This repo contains a basic `index.html` file and an associated Javascript file written in the Angular framework. Files are designed to interact with user object data retrieved from the GitHub API and can be expanded or altered to suit your needs. 
